@@ -1,2 +1,2 @@
 # fantasy-football-smart-contract
-A minimal voting smart contract built on the Ethereum platfrom using Solidity, Web3 and JavaScript
+Decentralized and immutable voting smart contract built on the Ethereum platfrom using Solidity, Web3 and JavaScript for fantasy football leagues
